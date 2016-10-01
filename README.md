@@ -6,6 +6,9 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 https://css-tricks.com/designing-a-product-page-layout-with-flexbox/
 
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
+
+https://css-tricks.com/dont-overthink-flexbox-grids/
 
 #### Parent Container
 ```
